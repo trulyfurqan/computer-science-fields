@@ -1,1 +1,8 @@
-Web Development is field where we create websites.
+Web Development is field where we create websites. Some of the most commonly used programming languages/frameworks for creating websites are as follow:
+
+HTML5
+CSS3
+JavaScript
+JQuery
+PHP
+MySQL
