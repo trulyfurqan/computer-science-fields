@@ -1,4 +1,4 @@
-In mobile development we create apps for the smart phones. The are two major platforms for mobile development which are as follow:
+In mobile developments we create apps for the smart phones. The are two major platforms for mobile development which are as follow:
 
 Android
 IOS
